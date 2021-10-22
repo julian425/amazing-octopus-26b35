@@ -81,7 +81,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Putra Julian Tampubolon
+  title: Julian's Blog
   description: >-
     Blog about art, life hacks, tips about computer things, fixing everyday
     problems, electronics.
