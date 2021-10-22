@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'Short '
+subtitle: Short story about myself
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
