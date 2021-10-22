@@ -90,7 +90,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Putra Julian Tampubolon
+      value: Julian's Blog
       keyName: property
     - name: 'og:description'
       value: >-
