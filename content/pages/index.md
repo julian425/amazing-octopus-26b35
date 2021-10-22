@@ -106,7 +106,9 @@ seo:
     - name: 'twitter:title'
       value: Putra Julian Tampubolon
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Blog about art, life hacks, tips about computer things, fixing everyday
+        problems, electronics.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
