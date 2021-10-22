@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Putra Julian Tampubolon
+      value: Julian's Blog
     - name: 'twitter:description'
       value: >-
         Blog about art, life hacks, tips about computer things, fixing everyday
