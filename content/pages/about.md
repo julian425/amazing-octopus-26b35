@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Short story about myself
 image: /images/DSC_0563.jpg
-image_alt: A man sitting in PO
+image_alt: 'A man sitting in '
 seo:
   title: About Us
   description: This is the about us page
