@@ -25,7 +25,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - I need a help
           - Sponsorship
           - Other
       - input_type: textarea
