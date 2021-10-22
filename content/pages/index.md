@@ -93,7 +93,9 @@ seo:
       value: Putra Julian Tampubolon
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Blog about art, life hacks, tips about computer things, fixing everyday
+        problems, electronics.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
