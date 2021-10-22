@@ -1,7 +1,7 @@
 {
     "title": "Julian's Blog",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "blue",
     "header": {
         "title": "Julian's Blog",
