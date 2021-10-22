@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://amazing-octopus-26b35.netlify.app"
+    "domain": "https://amazing-octopus-26b35.netlify.app",
+    "favicon": "/images/pjt.png"
 }
