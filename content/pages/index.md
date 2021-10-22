@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: Contact me if you need my help
+    subtitle: Contact me to get get help with
     col_number: two
     is_numbered: true
     grid_items:
