@@ -28,6 +28,7 @@ sections:
           - I need a help
           - Sponsorship
           - Other
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
