@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Here's my projects so far
+subtitle: My projects so far
 layout_style: mosaic
 seo:
   title: Portfolio
