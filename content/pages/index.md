@@ -48,7 +48,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: 'In case you''re interested to read, here you go'
+    subtitle: 'In case you''re interested to read, here you go..'
     posts_number: 3
     col_number: three
     actions:
