@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Short story about myself
-image: images/about.jpg
+image: /images/DSC_0563.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
