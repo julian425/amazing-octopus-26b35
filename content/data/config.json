@@ -2,7 +2,7 @@
     "title": "Julian's Blog",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "green",
     "header": {
         "title": "Julian's Blog",
         "has_nav": true,
