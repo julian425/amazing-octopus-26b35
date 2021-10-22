@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Putra Julian Tampubolon
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
