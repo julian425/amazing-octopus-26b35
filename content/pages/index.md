@@ -8,7 +8,7 @@ sections:
     content: |
       This is my personal blog. I post my projects and some tips here. Enjoy!
     actions:
-      - label: 'Find '
+      - label: Find me
         url: /contact
         style: button
   - section_id: latest-projects
