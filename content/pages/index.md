@@ -82,7 +82,9 @@ sections:
         style: button
 seo:
   title: Putra Julian Tampubolon
-  description: The preview of the Exto theme
+  description: >-
+    Blog about art, life hacks, tips about computer things, fixing everyday
+    problems, electronics.
   extra:
     - name: 'og:type'
       value: website
