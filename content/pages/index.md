@@ -73,7 +73,7 @@ seo:
         problems, electronics.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/Toothless-01-01.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -85,7 +85,7 @@ seo:
         Blog about art, life hacks, tips about computer things, fixing everyday
         problems, electronics.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/Toothless-01-01.png
       relativeUrl: true
 layout: advanced
 ---
