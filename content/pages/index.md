@@ -73,7 +73,7 @@ seo:
         problems, electronics.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/Toothless-01-01.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
