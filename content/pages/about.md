@@ -4,17 +4,17 @@ subtitle: Short story about myself
 image: /images/DSC_0563.jpg
 image_alt: A man sitting in first person view
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Me
+  description: Owner of Julian's Blog | Putra Julian Tampubolon
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Owner of Julian's Blog | Putra Julian Tampubolon
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Owner of Julian's Blog | Putra Julian Tampubolon
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
