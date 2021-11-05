@@ -1,6 +1,6 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: 'About Tbilisi, Georgia'
+subtitle: Tbilisi according to my experience
 date: '2021-11-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
