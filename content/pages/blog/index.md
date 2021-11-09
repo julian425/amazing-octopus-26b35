@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: This is the blog page
+  description: Julian's blog page
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Julian's blog page
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Julian's blog page
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true

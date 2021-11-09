@@ -4,7 +4,7 @@ subtitle: My projects so far
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: Julian's portfolio page
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: Julian's portfolio page
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: Julian's portfolio page
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
