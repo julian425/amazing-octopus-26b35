@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: Owner of Julian's Blog | Putra Julian Tampubolon
+      value: Putra Julian Tampubolon
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
