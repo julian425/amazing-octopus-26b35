@@ -4,7 +4,7 @@ subtitle: Tbilisi according to my experience
 date: '2021-11-05'
 thumb_image: images/Tbilisi1_thumb.jpg
 thumb_image_alt: Rake Park
-image: images/Tbilis1.jpg
+image: images/Tbilisi1.jpg
 image_alt: Rake Park
 excerpt: lorem-ipsum
 seo:
@@ -23,7 +23,7 @@ seo:
         Tbilisi according to my experience
       keyName: property
     - name: 'og:image'
-      value: images/Tbilis1.jpg
+      value: images/Tbilisi1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
       value: >-
         Tbilisi according to my experience
     - name: 'twitter:image'
-      value: images/Tbilis1.jpg
+      value: images/Tbilisi1.jpg
       relativeUrl: true
 layout: post
 ---
