@@ -7,7 +7,7 @@ date: '2021-12-10'
 thumb_image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Saint_Sophia_Cathedral_in_Novgorod.jpg/220px-Saint_Sophia_Cathedral_in_Novgorod.jpg
 thumb_image_alt: Sophia Cathedral
 image: https://en.wikipedia.org/wiki/Cathedral_of_St._Sophia,_Novgorod#/media/File:Saint_Sophia_Cathedral_in_Novgorod.jpg
-image_alt: Library shelves
+image_alt: Sophia Cathedral
 seo:
   title: The emergence of the Old Russian state
   description: >-
@@ -46,11 +46,14 @@ The Old Russian state (Rus) appeared in the 9th (ninth) century in Eastern Europ
 
 The Slavs  united for protection from enemies and invited the Scandinavian prince Rurik to rule the state. The capital of Russia was the city of Kiev on the Dnieper River. 
 
-![Sophia Cathedral (Novgorod)](http://test.grint.ru/upload/iblock/78d/78d926e238787716dac7406afae67110.png)
+<img src="http://test.grint.ru/upload/iblock/78d/78d926e238787716dac7406afae67110.png" alt="Sophia Cathedral (Novgorod)" style="max-width: 100%; height: auto;">
+<small><i>[Sophia Cathedral (Novgorod)]</i></small>
 
+--
 Prince Vladimir made Christianity (Orthodoxy) the official religion of the Old Russian state in 988 (nine hundred and eighty-eighth). The most famous temples of Ancient Russia are dedicated to Saint Sophia, as is the main temple of Byzantium in Constantinople. The first temple was built in Kiev, and the second later in Novgorod.
 
-![Sophia Cathedral (Kiev)](http://test.grint.ru/upload/iblock/09b/09b548e9df605500879ef046e4ea7f76.png)
+<img src="http://test.grint.ru/upload/iblock/09b/09b548e9df605500879ef046e4ea7f76.png" alt="Sophia Cathedral (Kiev)" style="max-width: 100%; height: auto;">
+<small><i>[Sophia Cathedral (Kiev)]</i></small>
 
 Reference: [Grint Website][1]
 
